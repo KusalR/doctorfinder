@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e61b1d6a-7bdd-4c40-b09d-78995ef56cc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/doctor-finder/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/doctor-finder/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor-finder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/doctor-finder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor-finder/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/doctor-finder/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IT18018042-Health" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/doctor-finder" />
+  </component>
+  <component name="ProjectId" id="1dFOwgAT8fCfF4KBpckvAiO0OUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Electronic and telecommunication" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\Desktop\IT18018042-Health\doctor-finder\Server" />
+      <recent name="C:\Users\Hp\Desktop\IT18018042-Health\doctor-finder\src\component" />
+      <recent name="C:\Users\Hp\Desktop\IT18018042-Health\doctor-finder\src" />
+      <recent name="C:\Users\Hp\Desktop\IT18018042-Health\doctor-finder\src\component\Homepage" />
+      <recent name="C:\Users\Hp\Desktop\IT18018042-Health\hospital-managment\Server" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e61b1d6a-7bdd-4c40-b09d-78995ef56cc4" name="Default Changelist" comment="" />
+      <created>1592017614267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592017614267</updated>
+      <workItem from="1592017618132" duration="7046000" />
+      <workItem from="1592025313226" duration="52425000" />
+      <workItem from="1609650503193" duration="3308000" />
+      <workItem from="1609917192012" duration="275000" />
+      <workItem from="1609931742853" duration="7739000" />
+      <workItem from="1612779822376" duration="19562000" />
+      <workItem from="1612843047301" duration="11875000" />
+      <workItem from="1612869640375" duration="8443000" />
+      <workItem from="1612927014813" duration="18637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/hospital-managment" />
+    </ignored-roots>
+  </component>
+</project>
